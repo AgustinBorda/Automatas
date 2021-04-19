@@ -1,0 +1,10 @@
+automatas/NFA.class
+automatas/DFA.class
+automatas/FA.class
+automatas/State.class
+automatas/NFALambda.class
+automatas/AutomatonException.class
+automatas/StateSet.class
+utils/DotReader.class
+automatas/Alphabet.class
+utils/Tupla.class
